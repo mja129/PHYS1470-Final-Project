@@ -1,1 +1,2 @@
-# PHYS1470-Final-Project
+### Image Representation in Quantum Computing (FRQI and NEQR)
+*By: Matthew Anderson and Liam Doyle*
