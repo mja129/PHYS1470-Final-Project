@@ -1,2 +1,2 @@
-### Image Representation in Quantum Computing (FRQI and NEQR)
+### Image Representation in Quantum Computing using FRQI
 *By: Matthew Anderson and Liam Doyle*
